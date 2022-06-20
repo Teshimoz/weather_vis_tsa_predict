@@ -5,7 +5,7 @@
 https://nbviewer.org/github/Teshimoz/weather_vis_tsa_predict/blob/cf6573bf17882ec007f8f874fddbd8589ec0f42b/weather_vis_tsa_predict.ipynb
 
 <b>Project description:</b><br>
-Visualisations, Time Series Analysis of local weather data like temperature, humidity. Prediction of temperature using Prophet tool.<br>
+Visualisations of local weather data like temperature, humidity, pressure. Time Series Analysis, Prediction of temperature using Prophet tool.<br>
 The purpose was to get better understanding of local climate and microclimate.<br>
 Used plotly and matplotlib+seaborn for visualisations, pandas to work with dataframes, imported from SQL db. Used statsmodels.tsa.seasonal to exctract trend and season components from the data, applied Prophet tool for predictions, improved by hyperparameter tuning.<br>
 <br>This project contain following main parts:
