@@ -2,7 +2,7 @@
 *All the data collected with scripts from another repository ([weather](https://github.com/Teshimoz/weather), link to my fork for two sensors)*
 
 <b>Rendered notebook:</b><br>
-https://nbviewer.org/github/Teshimoz/weather_vis_tsa_predict/blob/cf6573bf17882ec007f8f874fddbd8589ec0f42b/weather_vis_tsa_predict.ipynb
+https://nbviewer.org/github/Teshimoz/weather_vis_tsa_predict/blob/1dd869033fc6bc2e1ae1ed716c5a9aa7de89131d/weather_vis_tsa_predict.ipynb
 
 <b>Project description:</b><br>
 Visualizations of local weather data like temperature, humidity, pressure. Time Series Analysis, Prediction of temperature using Prophet tool.<br>
