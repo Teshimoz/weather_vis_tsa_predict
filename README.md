@@ -1,5 +1,5 @@
 # Weather Data Visualizations, TSA, Prediction
-*All the data collected with scripts from another repository ([weather](https://github.com/Teshimoz/weather), link to my fork for two sensors)*
+*All the data collected with scripts from another repository ([weather](https://github.com/Teshimoz/weather), link to my fork adapted for two sensors)*
 
 <b>Rendered notebook:</b><br>
 https://nbviewer.org/github/Teshimoz/weather_vis_tsa_predict/blob/1dd869033fc6bc2e1ae1ed716c5a9aa7de89131d/weather_vis_tsa_predict.ipynb
